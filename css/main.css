@@ -1,0 +1,16 @@
+
+/*---------- TABLET ----------*/
+
+@media (min-width: 768px) {
+	body {
+		background: thistle;
+	}
+}
+
+/*---------- Desktops ----------*/
+
+@media (min-width: 1200px) {
+	body {
+		background: turquoise;
+	}
+}
